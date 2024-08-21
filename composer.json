@@ -1,0 +1,17 @@
+{
+    "name": "nichetech/php-websockets-master",
+    "autoload": {
+        "psr-4": {
+            "Nichetech\\PhpWebsocketsMaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Parth Makwana",
+            "email": "parthm@nichetech.in"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
